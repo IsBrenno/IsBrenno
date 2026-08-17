@@ -1,15 +1,15 @@
 <h2 align="center">
-  👋 Olá, eu sou Brenno
+  Olá, eu sou Isayas Brenno
 </h2>
 
 <p align="center">
   <samp>
-    Desenvolvedor interessado em <b>Software Engineering, Dados e Automação</b>
+    Software Developer focused on Backend Engineering, Data and Automation
   </samp>
 </p>
 
 <p align="center">
-  <img src="./assets/rubiks-cube.gif" width="180" alt="Cubo mágico">
+  <img src="./assets/rubiks-cube.gif" width="160" alt="Rubik's Cube">
 </p>
 
 <p align="center">
@@ -23,32 +23,31 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+### About me
 
-* 🎓 Estudante de **Ciência de Dados**
-* 💻 Desenvolvedor focado em **Backend e Engenharia de Software**
-* 🏗️ Interessado em **arquitetura, sistemas e boas práticas**
-* 🤖 Explorando **IA, automação e agentes**
-* 🗄️ Trabalho com **bancos de dados e sistemas distribuídos**
-* 🧩 Gosto de resolver problemas complexos e transformar ideias em sistemas
+I'm a software developer interested in building reliable and maintainable systems.
+
+My main interests are backend development, software architecture, databases, automation and the design of systems that solve real-world problems.
+
+I enjoy understanding how the different parts of a system fit together, from business rules and architecture to persistence, infrastructure and observability.
 
 ---
 
-### 🚀 Atualmente
+### Currently
 
-Estou desenvolvendo o **KyFlow**, uma plataforma de gestão de projetos focada na integração entre **pessoas, agentes de IA e automações**.
+I'm currently working on **KyFlow**, a project management platform designed around projects, workflows and the integration between humans, AI agents and automated services.
 
-No projeto venho explorando:
+Some of the concepts I'm exploring through the project include:
 
-`Java` `Spring Boot` `PostgreSQL` `Docker` `ReBAC` `Multi-tenancy` `Arquitetura Modular`
+`Java` `Spring Boot` `PostgreSQL` `Docker` `Software Architecture` `ReBAC` `Multi-tenancy`
 
-Também estudo e desenvolvo projetos utilizando:
+I'm also working with:
 
 `Go` `Angular` `Python` `SQL` `Power Automate` `Power BI`
 
 ---
 
-### 🛠️ Tecnologias
+### Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,go,python,postgres,docker,angular,ts,git,linux" />
@@ -56,17 +55,27 @@ Também estudo e desenvolvo projetos utilizando:
 
 ---
 
-### 📊 GitHub
+### Projects
+
+**KyFlow**
+Project management platform focused on workflows, collaboration, governance and the integration of humans and AI agents.
+
+**Palpiteiros FC**
+A web application built for managing football predictions and World Cup pools.
+
+---
+
+### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170">
 </p>
 
 ---
 
 <p align="center">
   <samp>
-    🧩 Solving problems, one piece at a time.
+    Building, learning and improving one system at a time.
   </samp>
 </p>
