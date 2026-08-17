@@ -71,17 +71,10 @@ Built as a full-stack project with a Go backend and Angular frontend.
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">GitHub</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=IsBrenno&show_icons=true&theme=transparent&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsBrenno&layout=compact&theme=transparent&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsBrenno&hide_border=true" />
 </p>
 
 ---
