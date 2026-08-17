@@ -68,8 +68,8 @@ A web application built for managing football predictions and World Cup pools.
 ### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsBrenno&show_icons=true&theme=transparent&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsBrenno&layout=compact&theme=transparent&hide_border=true" height="170">
 </p>
 
 ---
