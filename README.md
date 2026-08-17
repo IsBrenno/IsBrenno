@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/rubiks-cube.gif" width="160" alt="Rubik's Cube">
+  <img src="https://media.giphy.com/media/X4SS63h7k5umY/giphy.gif" width="160" alt="Rubik's Cube">
 </p>
 
 <p align="center">
@@ -71,11 +71,17 @@ Built as a full-stack project with a Go backend and Angular frontend.
 
 ---
 
-### GitHub
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsBrenno&show_icons=true&theme=transparent&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsBrenno&layout=compact&theme=transparent&hide_border=true" height="170">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=IsBrenno&show_icons=true&theme=transparent&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsBrenno&layout=compact&theme=transparent&hide_border=true"
+    height="170"
+  />
 </p>
 
 ---
