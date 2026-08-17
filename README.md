@@ -1,5 +1,5 @@
 <h2 align="center">
-  Olá, eu sou Isayas Brenno
+  Hi, I'm Isayas Brenno
 </h2>
 
 <p align="center">
@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USERNAME">
+  <a href="https://github.com/IsBrenno">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="SEU_LINKEDIN">
+  <a href="YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -27,7 +27,7 @@
 
 I'm a software developer interested in building reliable and maintainable systems.
 
-My main interests are backend development, software architecture, databases, automation and the design of systems that solve real-world problems.
+My main interests are **backend development, software architecture, databases, automation and distributed systems**.
 
 I enjoy understanding how the different parts of a system fit together, from business rules and architecture to persistence, infrastructure and observability.
 
@@ -35,9 +35,9 @@ I enjoy understanding how the different parts of a system fit together, from bus
 
 ### Currently
 
-I'm currently working on **KyFlow**, a project management platform designed around projects, workflows and the integration between humans, AI agents and automated services.
+I'm currently building **KyFlow**, a project management platform centered around projects, workflows and the integration of humans, AI agents and automated services.
 
-Some of the concepts I'm exploring through the project include:
+I'm using the project to explore:
 
 `Java` `Spring Boot` `PostgreSQL` `Docker` `Software Architecture` `ReBAC` `Multi-tenancy`
 
@@ -47,21 +47,27 @@ I'm also working with:
 
 ---
 
+### Projects
+
+#### KyFlow
+
+A project management platform designed around projects, workflows and hybrid teams, bringing together humans, AI agents and automated services.
+
+Currently exploring software architecture, authorization, multi-tenancy and modular system design.
+
+#### Palpiteiros FC
+
+A web application for football predictions and World Cup pools.
+
+Built as a full-stack project with a Go backend and Angular frontend.
+
+---
+
 ### Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,go,python,postgres,docker,angular,ts,git,linux" />
 </p>
-
----
-
-### Projects
-
-**KyFlow**
-Project management platform focused on workflows, collaboration, governance and the integration of humans and AI agents.
-
-**Palpiteiros FC**
-A web application built for managing football predictions and World Cup pools.
 
 ---
 
