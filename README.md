@@ -69,15 +69,6 @@ Built as a full-stack project with a Go backend and Angular frontend.
   <img src="https://skillicons.dev/icons?i=java,spring,go,python,postgres,docker,angular,ts,git,linux" />
 </p>
 
----
-
-<h3 align="center">GitHub</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsBrenno&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <samp>
